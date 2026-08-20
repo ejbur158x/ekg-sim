@@ -1,0 +1,25 @@
+{
+  "name": "Telemetry EKG Simulator",
+  "short_name": "EKG Sim",
+  "description": "Live scrolling EKG/telemetry monitor simulator with adjustable rate and rhythm type.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050807",
+  "theme_color": "#050807",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
